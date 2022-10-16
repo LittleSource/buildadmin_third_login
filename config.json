@@ -1,0 +1,9 @@
+{
+	"require": {
+		"overtrue/wechat": "^4.0"
+	},
+	"require-dev": {},
+	"dependencies": {},
+	"devDependencies": {},
+	"protectedFiles": []
+}
